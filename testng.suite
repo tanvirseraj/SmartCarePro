@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smart-Care-Pro">
+ <test name="Test">
+     <classes>
+       <class name="com.excelbd.SignInTest"/>
+       <class name="com.excelbd.SelectFacilityTest"/>
+       <class name="com.excelbd.ClientSearchTest"/>
+       <class name="com.excelbd.ServicePointTest"/>
+       <class name="com.excelbd.VitalTest"/>
+     </classes>
+ </test>
+</suite>
