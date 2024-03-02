@@ -64,5 +64,7 @@ In Page Object Model, consider each web page of an application as a class file. 
   
 ## Extent Report:
 
-![Screenshot 2024-03-01 211110](https://github.com/tanvirseraj/SmartCarePro/assets/85784149/768811a1-8631-4ff0-b666-d8a742d5f18a)
-![Screenshot 2024-03-01 211306](https://github.com/tanvirseraj/SmartCarePro/assets/85784149/c0a43af5-974f-4148-9719-5db01706fdb7)
+![Screenshot 2024-03-02 203858](https://github.com/tanvirseraj/SmartCarePro/assets/85784149/7f17374b-c14d-4758-9ee2-344ca2a0a7d0)
+![Screenshot 2024-03-02 203922](https://github.com/tanvirseraj/SmartCarePro/assets/85784149/824f93d4-c50b-4066-b61b-10fe6d22c8b2)
+
+
