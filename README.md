@@ -53,6 +53,8 @@ In Page Object Model, consider each web page of an application as a class file. 
    Alternatives options available in the market for frontend automation: Cucumber with Selenium, Protractor with Jasmin, WebdriverIO, SerenityJs, Cypress etc.
    
 ## How to Run the tests
+    * Go to testng.suite file
+    * Then run as TestNG 
 
 
 ## Pre-requisite:
